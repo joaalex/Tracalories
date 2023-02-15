@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../Weaher App"
+		},
+		{
+			"path": "../../Practice"
+		},
+		{
+			"path": "../PracticeII"
+		},
+		{
+			"path": "../Book List"
+		},
+		{
+			"path": "../KudaClone"
+		},
+		{
+			"path": "../RegExp"
+		},
+		{
+			"path": "../profileScroller"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tracalorie"
+	}
+}
